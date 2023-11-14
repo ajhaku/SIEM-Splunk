@@ -6,5 +6,7 @@ SIEM on työkalu, jota hyödynnetään yleisesti tietoturvavalvomoissa. Sen avul
 Käsitellään tässä dokumentissa SIEM-järjestelmän toimintoja esimerkkinä käytetään Splunk Enterprise alustaa.
 
 ## Aloitusnäkymä
-![Splunkin aloitusnäkymä](kuvat/Splunk-aloitusnäkymä.PNG)
 Splunk enterprise aloitusnäkymä on tämän kaltainen. Vasemmassa kulmassa oleva "Search & Reporting" -osio on se johon tässä ohjeessa pääasiassa keskitytään. 
+
+![Splunkin aloitusnäkymä](kuvat/Splunk-aloitusnäkymä.PNG)
+
