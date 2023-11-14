@@ -7,3 +7,4 @@ Käsitellään tässä dokumentissa SIEM-järjestelmän toimintoja esimerkkinä 
 
 ## Aloitusnäkymä
 ![Splunkin aloitusnäkymä](kuvat/Splunk-aloitusnäkymä.PNG)
+Splunk enterprise aloitusnäkymä on tämän kaltainen. Vasemmassa kulmassa oleva "Search & Reporting" -osio on se johon tässä ohjeessa pääasiassa keskitytään. 
