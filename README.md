@@ -11,5 +11,5 @@ Splunk enterprise aloitusnäkymä on tämän kaltainen. Vasemmassa kulmassa olev
 ![Splunkin aloitusnäkymä](kuvat/Splunk-aloitusnäkymä.PNG)
 
 ## Search & Reporting
-Search & Reporing kautta aukeavasta näkymästä suoritetaan kaikki kyselyt.
+Search & Reporing kautta aukeavasta näkymästä suoritetaan kaikki kyselyt, jotka syötetään kuvassa olevaan "Search" -kenttään. Mutta itse kyselyiden muodostamisesta lisää myöhemmin tässä ohjeessa.
 ![Splunkin kyselynäkymä](kuvat/Splunk-search-and-reporting.PNG)
