@@ -5,3 +5,5 @@ SIEM on työkalu, jota hyödynnetään yleisesti tietoturvavalvomoissa. Sen avul
 
 Käsitellään tässä dokumentissa SIEM-järjestelmän toimintoja esimerkkinä käytetään Splunk Enterprise alustaa.
 
+## Aloitusnäkymä
+
