@@ -28,4 +28,4 @@ Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seu
 ![Splunk haun sourcetypet](kuvat/Splunk_sourcetype.PNG)
 
 
-Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä.
+Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä. Kuten kuvankaappauksesta nähdään tapahtumat koostuvat VPN-lokista, verkkoliikentäästä ja johonkin verkkosivuun kohdistuvasta liikenteestä.
