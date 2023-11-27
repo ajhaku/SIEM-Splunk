@@ -28,4 +28,6 @@ Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seu
 ![Splunk haun sourcetypet](kuvat/Splunk_sourcetype.PNG)
 
 
-Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä. Kuten kuvankaappauksesta nähdään tapahtumat koostuvat VPN-lokista (vpn_logs), verkkoliikenteestä (network_traffic) ja johonkin verkkosivuun kohdistuvasta liikenteestä (web_traffic). Voimme valita minkä tahansa kolmesta edellä mainitusta arvosta mikäli haluamme tarkastella esimerkiksi yksinomaan VPN-lokia.
+Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä. Kuten kuvankaappauksesta nähdään tapahtumat koostuvat VPN-lokista (vpn_logs), verkkoliikenteestä (network_traffic) ja johonkin verkkosivuun kohdistuvasta liikenteestä (web_traffic). 
+
+Voimme valita minkä tahansa kolmesta edellä mainitusta arvosta mikäli haluamme tarkastella esimerkiksi yksinomaan VPN-lokia. Yleisesti ottaen hakutuloksia voidaan rajata eri kentissä olevilla arvoilla. Voidaan siis hakea vain tiettyyn IP-osoitteeseen liittyvä lokitieto, tiettyyn porttiin kohdistettu verkkoliikenne, tiettyyn aikaan tapahtunut tapahtuma ja paljon muuta. 
