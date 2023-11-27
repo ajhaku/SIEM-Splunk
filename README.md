@@ -25,5 +25,5 @@ Kyselyiden alkuun tulee index="x", jossa 'x' on datan säilytyspaikka. Suoriteta
 Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seuraavaksi tarkemmin, millaisista tapahtumista on kyse.
 
 
-
+![Splunk haun sourcetypet](kuvat/Splunk_sourcetype.PNG)
 ![Splunk haun tulos 2](kuvat/Splunk_haku2.PNG)
