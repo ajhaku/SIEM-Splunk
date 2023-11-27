@@ -22,3 +22,4 @@ Kyselyiden alkuun tulee index="jotain", jossa jotain on datan säilytyspaikka. S
 
 ![Splunk haun tulos](kuvat/Splunk_haku.PNG)
 
+Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seuraavaksi tarkemmin, millaisista tapahtumista on kyse.
