@@ -17,3 +17,8 @@ Search & Reporing kautta aukeavasta näkymästä suoritetaan kaikki kyselyt, jot
 
 ### Kyselyn muodostaminen
 Tarkastellaan seuraavaksi miten 'Search & Reporting' -ikkunassa voimme suorittaa erilaisia kyselyitä. 
+
+Kyselyiden alkuun tulee index="jotain", jossa jotain on datan säilytyspaikka. Suoritetaan haku index=*, niin nähdään millaista eventtejä on saatavilla. 
+
+![Splunk haun tulos](kuvat/Splunk_haku.PNG)
+
