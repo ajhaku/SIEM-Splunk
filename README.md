@@ -27,3 +27,5 @@ Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seu
 
 ![Splunk haun sourcetypet](kuvat/Splunk_sourcetype.PNG)
 ![Splunk haun tulos 2](kuvat/Splunk_haku2.PNG)
+
+Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä.
