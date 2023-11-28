@@ -11,6 +11,7 @@ Splunk enterprise aloitusnäkymä on tämän kaltainen. Vasemmassa kulmassa olev
 ![Splunkin aloitusnäkymä](kuvat/Splunk-aloitusnäkymä.PNG)
 
 ## Search & Reporting
+### Esimerkki 1
 Search & Reporing kautta aukeavasta näkymästä suoritetaan kaikki kyselyt, jotka syötetään kuvassa olevaan "Search" -kenttään. Mutta itse kyselyiden muodostamisesta lisää myöhemmin tässä ohjeessa. Vihreän suurennuslasin vasemmalla olevasta painikkeesta voimme säätää miltä aikaväliltä haluamme hakea tapahtumia. Hakupalkin alla olevasta "No Event Sampling" -painikkeesta voimme hakea satunnaisotannalla esimerkiksi joka tuhannen hakutuloksen. Tämä on hyödyllinen ominaisuus mikäli hakutuloksia on todella paljon samankaltaisia.
 
 ![Splunkin kyselynäkymä](kuvat/Splunk-search-and-reporting.PNG)
@@ -31,6 +32,6 @@ Haun tuloksena saadaan 35 086 kappaletta erilaista tapahtumaa. Tarkastellaan seu
 Mennään 'Selected Fields' kohtaan ja asetetaan kursori kentän 'sourcetype' kohdalle, jolloin nähdään minkälaista dataa meillä on käsiteltävänä. Kuten kuvankaappauksesta nähdään tapahtumat koostuvat VPN-lokista (vpn_logs), verkkoliikenteestä (network_traffic) ja oletettavasti johonkin verkkosivuun kohdistuvasta liikenteestä (web_traffic). 
 
 Voimme valita minkä tahansa kolmesta edellä mainitusta arvosta mikäli haluamme tarkastella esimerkiksi yksinomaan VPN-lokia. Yleisesti ottaen hakutuloksia voidaan rajata eri kentissä olevilla arvoilla. Voidaan siis hakea vain tiettyyn IP-osoitteeseen liittyvä lokitieto, tiettyyn porttiin kohdistettu verkkoliikenne, tiettyyn aikaan tapahtunut tapahtuma ja paljon muuta. 
-
-
+---
+### Esimerkki 2
 Tarkastellaan vielä toisenlaista dataa, jotta saadaan hieman parempi käsitys millaisista eri lähteistä SIEM kykenee keräämään dataa. 
