@@ -37,6 +37,7 @@ Voimme valita minkä tahansa kolmesta edellä mainitusta arvosta mikäli haluamm
 
 ### Esimerkki 2
 Tarkastellaan vielä toisenlaista dataa, jotta saadaan hieman parempi käsitys millaisista eri lähteistä SIEM kykenee keräämään dataa. Allaoleva kuvankaappaus on otettu Windowsin tapahtumalokeja sisältävästä tietovarastosta (index). Kuten näkyy erilaisia kenttiä ja arvoja on melkoinen määrä, joten tälläisten lokien lukeminen kokonaan veisi aivan liikaa aikaa. Mikäli tiedämme mitä haemme voimme rajata hakutulokset näyttämään vain haluamamme kentät ja niiden arvot. Eli tarkastellaankin seuraavaksi hieman hakutulosten rajaamista. 
+
 ![Splunk haun tulos 3](kuvat/Splunk_haku3.PNG)
 
 
