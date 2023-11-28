@@ -36,4 +36,5 @@ Voimme valita minkä tahansa kolmesta edellä mainitusta arvosta mikäli haluamm
 ---
 
 ### Esimerkki 2
-Tarkastellaan vielä toisenlaista dataa, jotta saadaan hieman parempi käsitys millaisista eri lähteistä SIEM kykenee keräämään dataa. 
+Tarkastellaan vielä toisenlaista dataa, jotta saadaan hieman parempi käsitys millaisista eri lähteistä SIEM kykenee keräämään dataa. Allaoleva kuvankaappaus on otettu Windowsin tapahtumalokeja sisältävästä tietovarastosta (index).
+![Splunk haun tulos 3](kuvat/Splunk_haku3.PNG)
